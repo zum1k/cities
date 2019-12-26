@@ -1,0 +1,19 @@
+{
+  "country": {
+    "name": "Belarus",
+    "capitalName": "Minsk",
+    "stateCapital": {
+      "name": "Minsk",
+      "population": 2000000
+    },
+    "regions": [
+      {
+        "regionName": "Minskaya",
+        "capitalRegionName": "Minsk",
+        "districts": [
+
+        ]
+      }
+    ]
+  }
+}
